@@ -25,7 +25,7 @@
                         <h6 style="line-height: 35px;">Many people like the idea of earning online but don't know how to go about it. The reason is not hidden, it is because they lack the skills required to earn online and if this is you, then don't worry, this is where your journey to earning real-time income online begins.</h6><br>
                         <div class="row center-align">
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ url('img/FB_IMG_1623313489159.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
+                                    <img src="{{ url('img/IMG-20210730-WA0076.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
                                 </div><br></div>
                         <h6 style="line-height: 35px;">My name is <b>Israel Adeleke Adesanya</b> and I am the king of this domain. I help people to build sustainable online businesses in different industries such as e-commerce, affiliate marketing, and other business industries capable of making them 6 figures monthly.</h6><br>
 
