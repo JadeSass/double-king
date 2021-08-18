@@ -27,12 +27,12 @@
                                 <div class="col s12 m12 l12 xl12 center-align">
                                     <img src="{{ url('img/IMG-20210730-WA0076.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
                                 </div><br></div>
-                        <h6 style="line-height: 35px;">My name is <b>Israel Adeleke Adesanya</b> and I am the king of this domain. I help people to build sustainable online businesses in different industries such as e-commerce, affiliate marketing, and other business industries capable of making them 6 figures monthly.</h6><br>
+                        <h6 style="line-height: 35px;">My name is <b>James Emmanuel</b> and I am the king of this domain. I help people to build sustainable online businesses in different industries such as e-commerce, affiliate marketing, and other business industries capable of making them 6 figures monthly.</h6><br>
 
                         <h6 style="line-height: 35px;">This <b>FREE</b> video I'm about to send to you now explains how you can set up a profitable online business that can be generating you up to 200K a month in the affiliate marketing industry.</h6>
                         </div>
                         <div class="access center-align">
-                            <a href="https://wa.link/f93gnh" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a> <br> <br>
+                            <a href="http://wa.link/w1rk3h" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a> <br> <br>
                             <h5><b>BELOW ARE SOME TESTIMONIES OF MY STUDENTS THAT STARTED MAKING <b class="red-text">6-7 FIGURES MONTHLY</b> AFTER THEY WATCHED THE SAME VIDEO I'M ABOUT TO SEND YOU NOW.</b></h5> <br> <br>
                         </div>
                         <div class="image-testimonies containe center-align">
@@ -47,7 +47,7 @@
                                     <img src="{{ url('img/proof-3.png') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div>
                                 <p class="red-text center-align">Don't miss out.</p>
-                                <a href="https://wa.link/f93gnh" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a><br><br>
+                                <a href="http://wa.link/w1rk3h" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a><br><br>
                                 <h5 class="center-align"> <b>Disclaimer</b> <br> The results in this training are not typical and will require implementation. It is also not in any way part of Facebook and Alphabet Inc.</h5>
                             </div>
                         </div>
