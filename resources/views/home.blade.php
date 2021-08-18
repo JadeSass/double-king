@@ -51,7 +51,7 @@
                                 <h5 class="center-align"> <b>Disclaimer</b> <br> The results in this training are not typical and will require implementation. It is also not in any way part of Facebook and Alphabet Inc.</h5>
                             </div>
                         </div>
-                        <p class="grey-text center-align"><b>&copy; {{ date('Y') }} Israel Adeleke Adesanya.</b></p>
+                        <p class="grey-text center-align"><b>&copy; {{ date('Y') }} James Emmanuel.</b></p>
                     </div>
                 </div>
             </div>
