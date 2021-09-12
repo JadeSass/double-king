@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <link rel="stylesheet" href="{{ asset('css/font-awesome/css/font-awesome.min.css') }}">
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <meta name="facebook-domain-verification" content="fvf4fuc74ev6kib2sr3o3z4f01afls" />
     </head>
     <!-- Facebook Pixel Code -->
 <script>
