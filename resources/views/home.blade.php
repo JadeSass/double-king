@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="{{ asset('css/font-awesome/css/font-awesome.min.css') }}">
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
         <meta name="facebook-domain-verification" content="fvf4fuc74ev6kib2sr3o3z4f01afls" />
+        <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-207997016-1"> </script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-207997016-1'); </script>
     </head>
     <!-- Facebook Pixel Code -->
 <script>
